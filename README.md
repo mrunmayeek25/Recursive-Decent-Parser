@@ -18,5 +18,4 @@ This project is a simple yet powerful application designed to validate grammar, 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/arithmetic-expression-evaluator.git
-cd arithmetic-expression-evaluator
+git clone https://github.com/mrunmayeek25/Recursive-Decent-Parser.git
